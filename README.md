@@ -5,15 +5,15 @@ This repository contains my implementation of a Spotify clone using HTML and CSS
 🎨 Stylish User Interface: A visually appealing design inspired by Spotify's interface.
 📜 I also added a custom scrollbar that looks similar to the actual one that you see on the spotify website.
 
-### Technologies Used:
+## Technologies Used:
 
 HTML
 CSS
 
-### How to Run:
+## How to Run:
 
 Clone the repository.
 Open index.html in your preferred web browser.
 
-### Feedback and Contributions:
+## Feedback and Contributions:
 I welcome any feedback or suggestions! If you find bugs or have ideas for improvement, please open an issue or submit a pull request.
